@@ -18,7 +18,7 @@ void	ft_print_comb01(char *a, char *b, char *c, char *d, char *e)
 	*b = 49;
 	*c = 50;
 	*d = 44;
-	*e = 32;
+	*e = 34;
 
 }
 
