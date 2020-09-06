@@ -18,7 +18,7 @@ void    ft_print_comb202(char ll, char lr, char rl, char rr,int L)
     char b;
 
     a = 35;
-    b = 44;
+    b = 4;
     write(1, &ll, 1);
     write(1, &lr, 1);
     write(1, &a, 1);
