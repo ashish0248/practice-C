@@ -58,3 +58,22 @@ void    ft_print_comb2(void)
     R = L + 1;
     }
 }
+
+void    ft_print_comb2(void)
+{
+    int L;
+    int R;
+
+    L = 0;
+    R = 1;
+    while (L <= 98)
+    {
+        while (R <= 99)
+        {
+            ft_print_comb201(L, R);
+            R++;
+        }
+    L++;
+    R = L + 1;
+    }
+}
