@@ -54,3 +54,20 @@ void	ft_print_comb()
 		c = b + 1;
 	}
 }
+
+void	ft_print_comb02(char a, char b, char c, char d, char e)
+{
+	write (1, &a, 1);
+	write (1, &b, 1);
+	write (1, &c, 1);
+	if (a == 55)
+	{
+		
+	}
+	else
+	{
+		write (1, &d, 1);
+		write (1, &e, 1);
+	}
+
+}
