@@ -78,16 +78,3 @@ void    ft_print_comb201(int L, int R)
     ft_print_comb202(ll, lr, rl, rr, L);
 }
 
-void    ft_print_comb201(int L, int R)
-{
-    char ll;
-    char lr;
-    char rl;
-    char rr;
-
-    ll = L / 10 + 48;
-    lr = L % 10 + 48;
-    rl = R / 10 + 48;
-    rr = R % 10 + 48;
-    ft_print_comb202(ll, lr, rl, rr, L);
-}
