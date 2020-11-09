@@ -5,4 +5,7 @@ int	main(void)
 {
 	ft_print_comb2();
 	return (0);
+	
+	ft_print_comb2();
+	return (0);
 }
