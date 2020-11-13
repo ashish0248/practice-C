@@ -6,7 +6,7 @@ void	ft_print_comb01(char *a, char *b, char *c, char *d, char *e)
 	*b = 49;
 	*c = 51;
 	*d = 45;
-	*e = 34;
+	*e = 35;
 
 }
 
