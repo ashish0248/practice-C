@@ -64,6 +64,7 @@ void    ft_print_comb2(void)
     }
 }
 
+non
 void    ft_print_comb201(int L, int R)
 {
     char ll;
