@@ -54,6 +54,3 @@ void	ft_print_comb()
 		c = b + 1;
 	}
 }
-
-void	ft_print_comb()
-
