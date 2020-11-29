@@ -1,8 +1,5 @@
 void	ft_rev_int_tab(int *tab, int size);
 
-void	ft_rev_int_tab(int *tab, int size);
-
-
 int main(void)
 {
 	int str [4];
