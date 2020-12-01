@@ -2,6 +2,7 @@ void	ft_sort_int_tab(int *tab, int size)
 {
 	int n;
 	int c;
+	int c;
 
 	n = 0;
 	while(n + 1 == size)
