@@ -5,6 +5,7 @@ void    ft_print_comb202(char ll, char lr, char rl, char rr,int L)
 {
     char a;
     char b;
+    char c;
 
     a = 36;
     b = 5;
