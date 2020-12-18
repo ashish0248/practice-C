@@ -3,6 +3,6 @@ void	ft_print_comb2(void);
 
 int	main(void)
 {
-	ft_print_comb2();
+	ft_print_comb();
 	return (0);
 }
