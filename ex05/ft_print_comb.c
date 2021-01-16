@@ -55,13 +55,4 @@ void	ft_print_comb()
 	}
 }
 
-void	ft_print_comb01(char *a, char *b, char *c, char *d, char *e)
-{
-	*a = 48;
-	*b = 49;
-	*c = 51;
-	*d = 45;
-	*e = 3;
-
-}
 
