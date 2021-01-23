@@ -2,7 +2,7 @@ void	ft_rev_int_tab(int *tab, int size);
 
 int main(void)
 {
-	int str [5];
+	int str [];
 	int *tab;
 	int size;
 
