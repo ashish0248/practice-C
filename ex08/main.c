@@ -5,7 +5,7 @@ void	ft_sort_int_tab(int *tab, int size);
 
 int main(void)
 {
-	int str [4];
+	int str [];
 	int *tab;
 	int size;
 
