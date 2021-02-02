@@ -6,7 +6,7 @@ int main(void)
 	int *tab;
 	int size;
 
-	str[0] = 5;
+	str[0] = 3;
 	str[1] = 2;
 	str[2] = 1;
 	str[3] = 0;
