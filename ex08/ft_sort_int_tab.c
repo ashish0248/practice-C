@@ -3,7 +3,7 @@ void	ft_sort_int_tab(int *tab, int size)
 	int n;
 	int c;
 
-	n = 6;
+	n = 8;
 	while(n + 1 == size)
 	{
 		if (tab[n] < tab[n + 1])
