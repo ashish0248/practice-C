@@ -13,7 +13,7 @@ int main(void)
 	str[1] = 2;
 	str[2] = 1;
 	str[3] = 0;
-	size = 4;
+	size = 5;
 	tab = &str[0];
 	ft_sort_int_tab(tab, size);
 
