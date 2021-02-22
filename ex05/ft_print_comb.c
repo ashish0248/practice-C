@@ -1,12 +1,13 @@
-#include<unistd.h>
+
+#include <unistd.h>
 
 void	ft_print_comb01(char *a, char *b, char *c, char *d, char *e)
 {
-	*a = 49;
-	*b = 50;
-	*c = 51;
-	*d = 45;
-	*e = 3;
+	*a = 48;
+	*b = 49;
+	*c = 50;
+	*d = 44;
+	*e = 34;
 
 }
 
@@ -27,7 +28,7 @@ void	ft_print_comb02(char a, char b, char c, char d, char e)
 
 }
 
-void	ft_print_comb()
+void ft_print_comb()
 {
 	char a;
 	char b;
@@ -52,7 +53,5 @@ void	ft_print_comb()
 		a++;
 		b = a + 1;
 		c = b + 1;
-	}
 }
-
 
