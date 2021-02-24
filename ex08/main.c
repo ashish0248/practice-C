@@ -9,10 +9,10 @@ int main(void)
 	int *tab;
 	int size;
 
-	str[0] = 3;
-	str[1] = 2;
-	str[2] = 1;
-	str[3] = 0;
+	str[0] = 4;
+	str[1] = 3;
+	str[2] = 2;
+	str[3] = 1;
 	size = 5;
 	tab = &str[0];
 	ft_sort_int_tab(tab, size);
