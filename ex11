@@ -2,10 +2,8 @@
  
 int main(void){
  
-  /* 変数の宣言 */
   int year;
  
-  /* 西暦の入力 */
   printf("西暦を入力してください = ");
   scanf("%d",&year);
  
@@ -24,4 +22,5 @@ int main(void){
   }
  
   return 0;
+  
 }
