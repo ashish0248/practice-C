@@ -7,7 +7,7 @@ int main()
   /* 自然数 */
   int number;
  
-  /* 判定フラグ */
+  /* 判定  */
   int flag = 0;
  
   /* 自然数の入力 */
