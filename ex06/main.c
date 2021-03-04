@@ -1,8 +1,8 @@
 
-void	ft_print_comb3(void);
+void	ft_print_comb2(void);
 
 int	main(void)
 {
-	ft_print_comb3();
+	ft_print_comb2();
 	return (0);
 }
