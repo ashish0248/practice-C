@@ -6,8 +6,8 @@ void    ft_print_comb202(char ll, char lr, char rl, char rr,int L)
     char a;
     char b;
 
-    a = 50;
-    b = 5;
+    a = 46;
+    b = 32;
     write(1, &ll, 1);
     write(1, &lr, 1);
     write(1, &a, 1);
@@ -18,7 +18,6 @@ void    ft_print_comb202(char ll, char lr, char rl, char rr,int L)
 
     }else{
         write(1, &b,1);
-        write(1, &a, 1);
     }
 }
 

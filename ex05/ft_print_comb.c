@@ -53,5 +53,7 @@ void ft_print_comb()
 		a++;
 		b = a + 1;
 		c = b + 1;
+	}
+
 }
 
