@@ -25,6 +25,6 @@ int main(void)
 		printf("%d", str[n]);
 		n++;
 	}
-
+	
 	return (0);
 }
