@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <unistd.h>
+
 void	ft_rev_int_tab(int *tab, int size)
 {
 	int number[size];
@@ -6,12 +9,14 @@ void	ft_rev_int_tab(int *tab, int size)
 
 	i = 0;
 	q = &number[0];
-	while(tab[size] != '\0')
+	while(tab[i] != '\0')
 	{
-		number[size] = tab[size];
-		size++;
+		number[i] = tab[i];
+		i++;
 	}
-	number[size] = '\n';
+	number[size] = '\0';
+	
+	i = 0;
 	while(size == 0)
 	{
 		tab[i] = number[size - 1];
