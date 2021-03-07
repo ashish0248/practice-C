@@ -10,7 +10,7 @@ int main(void)
   /* 和 */
   int sum;
  
-  for( i=1; i<=1000; ++i ) {
+  for( i=1; i<=10000; ++i ) {
     sum = 0;
  
     for( j=1; j<i; ++j) {
